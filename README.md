@@ -1,4 +1,4 @@
-📌 Employee Task Management Dashboard
+📌 Employee Task Management System
 
 A responsive web application built using React.js that allows Admins to assign and track tasks, and also enables for Employees to view and update their progress.
 
