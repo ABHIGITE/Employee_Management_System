@@ -2,9 +2,11 @@
 
 A responsive web application built using React.js that allows Admins to assign and track tasks, and also enables for Employees to view and update their progress.
 
+
 🔧 Features:
 
 🔐 Login system for Admin and Employee roles
+
 
 👤 Admin Dashboard:
 
@@ -14,6 +16,7 @@ A responsive web application built using React.js that allows Admins to assign a
 
 - Real-time reflection of task updates
 
+
 ✅ Employee Dashboard:
 
 - View assigned tasks with filters
@@ -22,7 +25,9 @@ A responsive web application built using React.js that allows Admins to assign a
 
 - Dashboard updates counts dynamically
 
+
 💾 Data persistence via LocalStorage
+
 
 🛠 Technologies used:
 
@@ -33,6 +38,7 @@ A responsive web application built using React.js that allows Admins to assign a
 - JavaScript (ES6+)
 
 - LocalStorage (for data storage)
+
 
 🚀 Future Improvements:
 
